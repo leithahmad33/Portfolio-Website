@@ -386,8 +386,7 @@ header .social a:hover {
     .about-me {
         width: 100% !important;
         height: 100% !important;
-        background-image: url(../images/aboutme.png) !important;
-        background-size: cover;
+        background-color: white !important;
     }
 
     #open:checked~.about-me {
